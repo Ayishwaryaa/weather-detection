@@ -1,4 +1,5 @@
 **weather-detection using Machine learning**
+
 The dataset contains weather images classified into :
 
 1. SUNNY
