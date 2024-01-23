@@ -22,6 +22,6 @@ After training and testing the model,the accuracy of the model was 0.8746 ie. 87
 
 The model is able to detect some images correctly but some fine tuning and adjusting the parameters are to be done inorder to get higher accuracy and better detection
 
-![accuracy chart](./Downloads/acc.png)
-![loss chart](./Downloads/loss.png)
+![acc](https://github.com/Ayishwaryaa/weather-detection/assets/112137001/65ba44f7-110d-44b4-961f-9b92f2ce493f)
+
 
