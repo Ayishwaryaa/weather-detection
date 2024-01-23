@@ -18,7 +18,7 @@ Training dataset contains a total of 734 images
 
 Testing dataset contains a total of 319 images
 
-After training and testing the model,the accuracy of the model was 0.8746 ie. 87%
+After training and testing the model,the **accuracy of the model was 0.8746 ie. 87%**
 
 The model is able to detect some images correctly but some fine tuning and adjusting the parameters are to be done inorder to get higher accuracy and better detection
 
